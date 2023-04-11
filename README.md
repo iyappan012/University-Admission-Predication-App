@@ -1,5 +1,8 @@
 # University Admission Prediction App
 
+![screenshot1](https://user-images.githubusercontent.com/128005450/231060631-0d9febab-9253-4e13-a7da-bfecee726401.png)
+
+
 This is a web application that predicts the likelihood of a student being admitted to a university based on their academic and personal profile. The prediction is made using a machine learning model trained on historical admissions data.
 
 ## Features
