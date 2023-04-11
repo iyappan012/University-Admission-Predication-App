@@ -19,8 +19,7 @@ This is a web application that predicts the likelihood of a student being admitt
 - HTML/CSS
 
 ## Installation
-- Clone the repository: git clone https://github.com/iyappan012/University-Admission-Predication.git
-- Install the required packages: pip install -r requirements.txt
+- Clone the repository: git clone https://github.com/iyappan012/University-Admission-Predication-App.git
 - Run the application: python app.py
 
 ## Usage
