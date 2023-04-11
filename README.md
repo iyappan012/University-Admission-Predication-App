@@ -4,6 +4,10 @@
 
 
 
+https://user-images.githubusercontent.com/128005450/231062606-35d494c2-0ede-4305-a7b7-767cdba753a3.mp4
+
+
+
 
 This is a web application that predicts the likelihood of a student being admitted to a university based on their academic and personal profile. The prediction is made using a machine learning model trained on historical admissions data.
 
